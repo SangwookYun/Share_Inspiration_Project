@@ -1,0 +1,932 @@
+[
+  {
+    "title": "BlackBerry launches BlackBerry Labs to develop cybersecurity solutions",
+    "summary": "BlackBerry Ltd. is looking to ramp up its cybersecurity research and development by today announcing the launch of a new...",
+    "date": "September 30th, 2019",
+    "url": "https://www.itworldcanada.com/article/blackberry-launches-blackberry-labs-to-develop-cybersecurity-solutions/422321",
+    "category": "cyberSecurity",
+    "id": 1
+  },
+  {
+    "title": "FedDev Ontario announces $4M investment in digital identity firm BioConnect",
+    "summary": "FedDev Ontario's recent $3.9 million investment in Toronto-based digital identity technology firm, BioConnect, will help Canada's Digital Charter achieve its...",
+    "date": "September 9th, 2019",
+    "url": "https://www.itworldcanada.com/article/feddev-ontario-announces-4m-investment-in-digital-identity-firm-bioconnect/421622",
+    "category": "cyberSecurity",
+    "id": 2
+  },
+  {
+    "title": "Cynet review: Integrated breach protection platform for mid-sized organizations",
+    "summary": "Foreword If you are a CIO/CISO of a mid-sized organization you know how challenging it is to navigate between multiple...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/cynet-review-integrated-breach-protection-platform-for-mid-sized-organizations",
+    "category": "cyberSecurity",
+    "id": 3
+  },
+  {
+    "title": "University of Waterloo opens new research center with NRC",
+    "summary": "The Canadian National Research Council (NRC) is collaborating with the University of Waterloo\u2019s Faculty of Engineering and Faculty of Mathematics...",
+    "date": "June 18th, 2019",
+    "url": "https://www.itworldcanada.com/article/university-of-waterloo-opens-new-research-center-with-nrc/419081",
+    "category": "cyberSecurity",
+    "id": 4
+  },
+  {
+    "title": "The importance of changing your cyber security mindset",
+    "summary": "How prepared are you when it comes to surviving and recovering from a cyber security incident? The most recent benchmark...",
+    "date": "May 6th, 2019",
+    "url": "https://www.itworldcanada.com/article/tip-and-best-practices-for-managing-cyber-security-incidents/417752",
+    "category": "cyberSecurity",
+    "id": 5
+  },
+  {
+    "title": "Healthcare organizations and DNS as a layer of defence and intelligence",
+    "summary": "Mark Gaudet from the Canadian Internet Registration Authority (CIRA) bears some grim news about Canadian healthcare organizations today. The move...",
+    "date": "March 21st, 2019",
+    "url": "https://www.itworldcanada.com/article/healthcare-organizations-and-dns-as-a-layer-of-defence-and-intelligence/416205",
+    "category": "cyberSecurity",
+    "id": 6
+  },
+  {
+    "title": "Prepare for the next level of cyber-attacks",
+    "summary": "The old clich\u00e9 of the lone hacker, clacking away feverishly, blinds closed, coffee and cigarette his only companions, is well...",
+    "date": "February 12th, 2019",
+    "url": "https://www.itworldcanada.com/article/prepare-for-the-next-level-of-cyber-attacks/414891",
+    "category": "cyberSecurity",
+    "id": 7
+  },
+  {
+    "title": "Small businesses need to take bigger security measures",
+    "summary": "The majority of small businesses don\u2019t have adequate security in place to protect against potentially devastating cyber attacks. \u201cMany small...",
+    "date": "November 29th, 2019",
+    "url": "https://www.itworldcanada.com/article/small-businesses-need-to-take-bigger-security-measures/424565",
+    "category": "cyberSecurity",
+    "id": 8
+  },
+  {
+    "title": "OpenText Enfuse 2019: The Carbonite acquisition, new apps, and updates",
+    "summary": "LAS VEGAS --- The topic of endpoint security was front and centre on the first day of OpenText Enfuse 2019....",
+    "date": "November 12th, 2019",
+    "url": "https://www.itworldcanada.com/article/opentext-enfuse-2019-the-carbonite-acquisition-new-apps-and-updates/423902",
+    "category": "cyberSecurity",
+    "id": 9
+  },
+  {
+    "title": "BlackBerry and Canadian Girl Guides launch new cybersecurity badge",
+    "summary": "TORONTO --- At the BlackBerry World Tour event held on Nov. 7, BlackBerry and Girl Guides of Canada launched the...",
+    "date": "November 7th, 2019",
+    "url": "https://www.itworldcanada.com/article/blackberry-and-canadian-girl-scouts-launch-new-cybersecurity-badge/423769",
+    "category": "cyberSecurity",
+    "id": 10
+  },
+  {
+    "title": "The importance of a holistic cybersecurity approach",
+    "summary": "[Sponsored article] Protecting digital assets may begin with top technical products, but it doesn\u2019t end there Times were far simpler...",
+    "date": "November 4th, 2019",
+    "url": "https://www.itworldcanada.com/article/the-importance-of-a-holistic-cybersecurity-approach/423621",
+    "category": "cyberSecurity",
+    "id": 11
+  },
+  {
+    "title": "McAfee adds EDR and cloud protection to its Mvision platform",
+    "summary": "LAS VEGAS --- Workloads are moving to the cloud, and so are\u00a0McAfee's\u00a0security products. Executives from the security software company spent...",
+    "date": "October 17th, 2018",
+    "url": "https://www.itworldcanada.com/article/mcafee-adds-edr-and-cloud-protection-to-its-mvision-platform/410433",
+    "category": "cyberSecurity",
+    "id": 12
+  },
+  {
+    "title": "Taking an integrated approach to company security",
+    "summary": "Cybersecurity-wise, we live at a critical time. With hackers making a fine art of their craft \u2014\u00a0increasing not only the...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/taking-an-integrated-approach-to-company-security",
+    "category": "cyberSecurity",
+    "id": 13
+  },
+  {
+    "title": "Winning the cyber security war with identity-defined security",
+    "summary": "By Cheryl McGrath Vice President and Country General Manager \u2013 Canada Optiv Security Sometimes we all need to take a...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/winning-the-cyber-security-war-with-identity-defined-security",
+    "category": "cyberSecurity",
+    "id": 14
+  },
+  {
+    "title": "BlackBerry announces new ransomware recovery tool",
+    "summary": "BlackBerry is attempting to make it easier for a businesses to protect itself against ransomware attacks by introducing a new...",
+    "date": "August 6th, 2018",
+    "url": "https://www.itworldcanada.com/article/blackberry-announces-new-ransomware-recovery-tool/407774",
+    "category": "cyberSecurity",
+    "id": 15
+  },
+  {
+    "title": "The five most common IT security missteps",
+    "summary": "By Cheryl McGrath, Area Vice President and Country General Manager, Canada, Optiv All too often, enterprises get caught in the...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/the-five-most-common-it-security-missteps",
+    "category": "cyberSecurity",
+    "id": 16
+  },
+  {
+    "title": "The downside of downtime: partnering with IT cloud solutions (ITCloud.ca) to reduce the costs of IT failures and compromised data",
+    "summary": "Not only do data losses and downtime cost Canadian enterprises an average of about $1.2 million each year, but they...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/the-downside-of-downtime-partnering-with-it-cloud-solutions-itcloud-ca-to-reduce-the-costs-of-it-failures-and-compromised-data",
+    "category": "cyberSecurity",
+    "id": 17
+  },
+  {
+    "title": "A strategic approach to the growing cyberthreat landscape",
+    "summary": "As the frequency and sophistication of cyber threats intensify, organizations around the world have stopped asking if an attack might...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/a-strategic-approach-to-the-growing-cyberthreat-landscape",
+    "category": "cyberSecurity",
+    "id": 18
+  },
+  {
+    "title": "SAS announces fraud and security intelligence division",
+    "summary": "DENVER - SAS Institute is no stranger to fraud, and after many years of experience in the space, the company...",
+    "date": "April 11th, 2018",
+    "url": "https://www.itworldcanada.com/article/sas-announces-fraud-and-security-intelligence-division/403942",
+    "category": "cyberSecurity",
+    "id": 19
+  },
+  {
+    "title": "HP teams up with Aon to tackle cyber risks with new security solution",
+    "summary": "LAS VEGAS - Cybersecurity continues to be the hottest topic in the tech industry. HP Inc. has announced it is...",
+    "date": "April 11th, 2018",
+    "url": "https://www.itworldcanada.com/article/hp-teams-up-with-aon-to-tackle-cyber-risks-with-new-security-solution/403931",
+    "category": "cyberSecurity",
+    "id": 20
+  },
+  {
+    "title": "American History in Binary Code \u2013 An Interview with Vasu Jakkal, CMO of FireEye",
+    "summary": "Recent history is replete with positive and negative examples of what can happen to a democratic society when the advancement...",
+    "date": "December 7th, 2018",
+    "url": "https://www.itworldcanada.com/blog/american-history-in-binary-code-an-interview-with-vasu-jakkal-cmo-of-fireeye/412396",
+    "category": "cyberSecurity",
+    "id": 21
+  },
+  {
+    "title": "When your pen test really isn\u2019t a pen test",
+    "summary": "By Cheryl McGrath Vice President and Country General Manager \u2013 Canada Optiv Security Sometimes words are used in such a...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/when-your-pen-test-really-isnt-a-pen-test",
+    "category": "cyberSecurity",
+    "id": 22
+  },
+  {
+    "title": "ESET hunts down the developer and operator of Android adware affecting 8 million users",
+    "summary": "With over 2.8 million available apps in Google\u2019s Play Store, malicious actors can occasionally slip through Google\u2019s stringent verification system....",
+    "date": "October 24th, 2019",
+    "url": "https://www.itworldcanada.com/article/eset-hunts-down-the-developer-and-operator-of-android-adware-affecting-8-million-users/423253",
+    "category": "cyberSecurity",
+    "id": 23
+  },
+  {
+    "title": "Advancements in malware have changed the landscape of cybersecurity, says eSentire",
+    "summary": "When it comes to protecting an organization from malware, it's a constant game of cat and mouse, according to Sean...",
+    "date": "October 17th, 2019",
+    "url": "https://www.itworldcanada.com/article/advancements-in-malware-have-changed-the-landscape-of-cybersecurity-says-esentire/422986",
+    "category": "cyberSecurity",
+    "id": 24
+  },
+  {
+    "title": "SecTor 2019: The past, present, and future of malware",
+    "summary": "The Creeper Worm, the first known computer virus, was designed in 1971 by Robert H. Thomas. It doesn't have the...",
+    "date": "October 11th, 2019",
+    "url": "https://www.itworldcanada.com/article/sector-2019-the-past-present-and-future-of-malware/422798",
+    "category": "cyberSecurity",
+    "id": 25
+  },
+  {
+    "title": "New study says Canadian SMBs incur a potential productivity loss of $2 billion using older technology",
+    "summary": "A recent study commissioned by Microsoft and Intel reported that the cost of using a PC older than four years...",
+    "date": "October 11th, 2019",
+    "url": "https://www.itworldcanada.com/article/canadian-smbs-incur-a-potential-productivity-loss-of-ca2-billion-using-older-technology/422750",
+    "category": "cyberSecurity",
+    "id": 26
+  },
+  {
+    "title": "SecTor 2019: How to survive a ransomware attack",
+    "summary": "Ransomware is nothing new, although it remains a popular cyber attack that continues to deliver devastating results, according to cybersecurity...",
+    "date": "October 9th, 2019",
+    "url": "https://www.itworldcanada.com/article/sector-2019-how-to-survive-a-ransomware-attack/422691",
+    "category": "cyberSecurity",
+    "id": 27
+  },
+  {
+    "title": "HP tags Christian Slater and Mafiaboy for cybersecurity projects",
+    "summary": "HP Inc. has captured a bit of the artistic bug, and it's landed the company at the famous Cannes Lions...",
+    "date": "July 7th, 2017",
+    "url": "https://www.itworldcanada.com/article/hp-tags-christian-slater-and-mafiaboy-for-cybersecurity-projects/394729",
+    "category": "cyberSecurity",
+    "id": 28
+  },
+  {
+    "title": "Brave face: Forming a proactive response to WannaCry",
+    "summary": "WannaCry, a global cyberattack by the WannaCry ransomware cryptoworm, has crippled at least 100,000 organizations and over 200,000 endpoints in...",
+    "date": "June 15th, 2017",
+    "url": "https://www.itworldcanada.com/article/brave-face-forming-a-proactive-response-to-wannacry/394027",
+    "category": "cyberSecurity",
+    "id": 29
+  },
+  {
+    "title": "50% of Canadian executives say their businesses were hacked last year",
+    "summary": "A new survey has terrifying implications for Canadian businesses across the country. Conducted by marketing research firm Ipsos Canada on...",
+    "date": "February 27th, 2017",
+    "url": "https://www.itworldcanada.com/article/50-of-canadian-executives-say-their-businesses-were-hacked-last-year/391017",
+    "category": "cyberSecurity",
+    "id": 30
+  },
+  {
+    "title": "A Security Leader\u2019s Definitive Guide to the Threat Landscape",
+    "summary": "Meeting the demands of the digital economy means security leaders must rethink their traditional approach to security. Download this paper...",
+    "date": "February 20th, 2017",
+    "url": "https://www.itworldcanada.com/assets/a-security-leaders-definitive-guide-to-the-threat-landscape",
+    "category": "cyberSecurity",
+    "id": 31
+  },
+  {
+    "title": "ITAC wants Canada to become a leader in cybersecurity, IoT, and the cloud",
+    "summary": "The Information Technology Association of Canada (ITAC) is looking towards the future. Though it will continue serving its diverse membership...",
+    "date": "November 29th, 2016",
+    "url": "https://www.itworldcanada.com/article/itac-wants-canada-to-become-a-leader-in-cybersecurity-iot-and-the-cloud/388827",
+    "category": "cyberSecurity",
+    "id": 32
+  },
+  {
+    "title": "Printer and Embedded Device Security",
+    "summary": "Today, most organizations do not have a security strategy in place for printers and embedded devices, leading to cybersecurity threats...",
+    "date": "November 5th, 2016",
+    "url": "https://www.itworldcanada.com/assets/printer-and-embedded-device-security",
+    "category": "cyberSecurity",
+    "id": 33
+  },
+  {
+    "title": "Bitsight Insights Report The rising face of cyber crime: Ransomware",
+    "summary": "Learn how ransomware is evolving - and which industries are the most susceptible to attacks. Ransomware is a legitimate threat,...",
+    "date": "September 25th, 2016",
+    "url": "https://www.itworldcanada.com/assets/bitsight-insights-report-the-rising-face-of-cyber-crime-ransomware",
+    "category": "cyberSecurity",
+    "id": 34
+  },
+  {
+    "title": "Why your HR team is one of the best security firewalls",
+    "summary": "Human error is one of the biggest threats in companies, according to a Canadian security expert. A recent Verizon Wireless...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/why-your-hr-team-is-one-of-the-best-security-firewalls",
+    "category": "cyberSecurity",
+    "id": 35
+  },
+  {
+    "title": "Canadian privacy commissioners to investigate Tim Hortons data collection practices",
+    "summary": "Developing \u00a0 Canada's privacy commissioner and three provincial counterparts have launched an investigation into Tim Hortons' mobile app for how...",
+    "date": "June 29th, 2020",
+    "url": "https://www.itworldcanada.com/article/canadian-privacy-commissioners-to-investigate-tim-hortons-data-collection-practices/432594",
+    "category": "cyberSecurity",
+    "id": 36
+  },
+  {
+    "title": "Breathe easier with a multi-layered approach to security",
+    "summary": "Even as the pandemic recedes and the economy reopens, many companies are in no rush to bring their employees back...",
+    "date": "June 8th, 2020",
+    "url": "https://www.itworldcanada.com/article/breathe-easier-with-a-multi-layered-approach-to-security/431852",
+    "category": "cyberSecurity",
+    "id": 37
+  },
+  {
+    "title": "Durham College to participate in siberXchange Live summit",
+    "summary": "Durham College, a partner and sponsor of SiberX, is participating in the siberXchange Live Summit this week\u00a0to showcase new opportunities...",
+    "date": "May 26th, 2020",
+    "url": "https://www.itworldcanada.com/article/durham-college-to-participate-in-siberxchange-live-summit/431298",
+    "category": "cyberSecurity",
+    "id": 38
+  },
+  {
+    "title": "CompTIA launches a new cybersecurity analyst certification worldwide",
+    "summary": "The Computing Technology Industry Association (CompTIA) has updated its cybersecurity analyst (CySA+) certification exam, the association announced this week. The...",
+    "date": "May 1st, 2020",
+    "url": "https://www.itworldcanada.com/article/comptia-launches-a-new-cybersecurity-analyst-certification-worldwide/430076",
+    "category": "cyberSecurity",
+    "id": 39
+  },
+  {
+    "title": "Kaspersky report: Nearly half of employees don\u2019t know how to respond to ransomware attacks",
+    "summary": "Despite the threat of ransomware being at an all-time high, a recent report from cybersecurity firm Kaspersky says that 45...",
+    "date": "April 26th, 2020",
+    "url": "https://www.itworldcanada.com/article/kaspersky-report-nearly-half-of-employees-dont-know-how-to-respond-to-ransomware-attacks/429811",
+    "category": "cyberSecurity",
+    "id": 40
+  },
+  {
+    "title": "Forbes \u2013 Cybersecurity when it comes to remote work means zero trust",
+    "summary": "Forbes\u2019 conversation with Alex Willis, BlackBerry\u2019s vice president, sales engineering and ISV partners, about issues around cybersecurity when it comes...",
+    "date": "April 23rd, 2020",
+    "url": "https://www.itworldcanada.com/post/forbes-cybersecurity-when-it-comes-to-remote-work-means-zero-trust",
+    "category": "cyberSecurity",
+    "id": 41
+  },
+  {
+    "title": "Understanding Canadian Cybersecurity Laws: Privacy Protection in the Modern Marketplace \u2014 PIPEDA (Part 3)",
+    "summary": "Written by: Melissa Lukings, JD Candidate, Faculty of Law, University of New Brunswick (UNB) Dr. Arash Habibi Lashkari, Assistant Professor...",
+    "date": "April 16th, 2020",
+    "url": "https://www.itworldcanada.com/blog/understanding-canadian-cybersecurity-laws-privacy-protection-in-the-modern-marketplace-pipeda-part-3/429697",
+    "category": "cyberSecurity",
+    "id": 42
+  },
+  {
+    "title": "Overcoming security complexity",
+    "summary": "There isn\u2019t a country in the world in which security, and the threat of being hacked, isn\u2019t an ongoing issue....",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/overcoming-security-complexity",
+    "category": "cyberSecurity",
+    "id": 43
+  },
+  {
+    "title": "Canadian malware map reveals ransomware on the rise",
+    "summary": "Editor's note: Story and map updated with malware data from August 2016. It's back-to-school season, and it looks like hackers...",
+    "date": "September 9th, 2016",
+    "url": "https://www.itworldcanada.com/article/canadian-malware-map-reveals-ransomware-on-the-rise/386319",
+    "category": "cyberSecurity",
+    "id": 44
+  },
+  {
+    "title": "Intel partners with asset firm to spin out McAfee into an independent brand",
+    "summary": "Intel Corp. and private equity firm TPG Capital on Wednesday announced a definitive agreement under which the two parties will...",
+    "date": "September 8th, 2016",
+    "url": "https://www.itworldcanada.com/article/intel-partners-with-asset-firm-to-spin-out-mcafee-into-an-independent-brand/386326",
+    "category": "cyberSecurity",
+    "id": 45
+  },
+  {
+    "title": "BlackBerry\u2019s seven recommendations for a more secure smart car",
+    "summary": "As cars get smarter and more connected, they are equipped with more mechanisms that can be targeted in cyberattacks, like...",
+    "date": "November 21st, 2017",
+    "url": "https://www.itworldcanada.com/article/blackberrys-seven-recommendations-for-a-more-secure-smart-car/399130",
+    "category": "cyberSecurity",
+    "id": 46
+  },
+  {
+    "title": "A guide to reduce cybersecurity risk at warp speed",
+    "summary": "Cybersecurity lapses continue to make headlines and undermine the fiscal health and reputation of the targeted organizations. Executives are under...",
+    "date": "November 21st, 2017",
+    "url": "https://www.itworldcanada.com/blog/a-guide-to-reduce-cybersecurity-risk-at-warp-speed/398471",
+    "category": "cyberSecurity",
+    "id": 47
+  },
+  {
+    "title": "One-third of Canadians have been a victim of cybercrime, says Accenture survey",
+    "summary": "Correction: An earlier version of this story stated that almost two-thirds of Canadians have been the victim of cybercrime. Accenture...",
+    "date": "November 6th, 2017",
+    "url": "https://www.itworldcanada.com/article/two-thirds-of-canadians-have-been-a-victim-of-cybercrime-says-accenture-survey/398501",
+    "category": "cyberSecurity",
+    "id": 48
+  },
+  {
+    "title": "Time to get serious \u2013 Securing your business in the IoT era",
+    "summary": "The year 1999 was a huge year for hackers and IT security groups alike, with scores of Windows OS patches...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/time-to-get-serious-securing-your-business-in-the-iot-era",
+    "category": "cyberSecurity",
+    "id": 49
+  },
+  {
+    "title": "Here\u2019s how to solve Canada\u2019s cyber security talent shortage",
+    "summary": "Two colleagues from two different organizations recently shared \u2018tales of woe\u2019 from their failed cyber security talent searches. We have...",
+    "date": "October 14th, 2017",
+    "url": "https://www.itworldcanada.com/blog/a-solution-to-the-cyber-security-talent-crisis/397672",
+    "category": "cyberSecurity",
+    "id": 50
+  },
+  {
+    "title": "New Brunswick leading the way towards digital literacy and cyber security in Canada",
+    "summary": "Blue Spurs knew it had something special even before it won the Partners in Innovation category at the 2017 Amazon...",
+    "date": "October 12th, 2017",
+    "url": "https://www.itworldcanada.com/article/new-brunswick-leading-the-way-towards-digital-literacy-and-cyber-security-in-canada/397594",
+    "category": "cyberSecurity",
+    "id": 51
+  },
+  {
+    "title": "Security trends in the healthcare industry",
+    "summary": "Change and expansion in the healthcare industry are moving faster than protection and security, and attacks are far outpacing defense....",
+    "date": "September 16th, 2017",
+    "url": "https://www.itworldcanada.com/assets/security-trends-in-the-healthcare-industry",
+    "category": "cyberSecurity",
+    "id": 52
+  },
+  {
+    "title": "11 Steps IT Needs to Take When Adopting Cloud Apps and Services",
+    "summary": "Whether you are talking secure or non-secure apps, employees are the weakest link. They can unknowingly divulge account credentials to...",
+    "date": "September 16th, 2017",
+    "url": "https://www.itworldcanada.com/assets/11-steps-it-needs-to-take-when-adopting-cloud-apps-and-services",
+    "category": "cyberSecurity",
+    "id": 53
+  },
+  {
+    "title": "Cybersecurity in the cognitive era: priming your digital immune system",
+    "summary": "Security leaders are challenged by the complexity of threats and with the speed with which they can respond to them....",
+    "date": "September 16th, 2017",
+    "url": "https://www.itworldcanada.com/assets/cybersecurity-in-the-cognitive-era-priming-your-digital-immune-system",
+    "category": "cyberSecurity",
+    "id": 54
+  },
+  {
+    "title": "Canadian businesses vulnerable at DNS level, according to CIRA survey",
+    "summary": "The Canadian cybersecurity landscape has traditionally been viewed in the context of the wider North American experience. While this may...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/canadian-businesses-vulnerable-at-dns-level-according-to-cira-survey",
+    "category": "cyberSecurity",
+    "id": 55
+  },
+  {
+    "title": "Why a DNS firewall should be a key part of your layered security strategy",
+    "summary": "Until quite recently, it wasn\u2019t unusual for a company\u2019s cybersecurity protocol to depend on a firewall, an antivirus program, and...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/why-a-dns-firewall-should-be-a-key-part-of-your-layered-security-strategy",
+    "category": "cyberSecurity",
+    "id": 56
+  },
+  {
+    "title": "Hashtag Trending \u2013 Spotify goes public, BMO to open tech campus, Equifax breach hits millions more customers",
+    "summary": "Spotify goes public, the Bank of Montreal will open a tech campus in Toronto\u2019s Eaton Centre, and Equifax reveals millions...",
+    "date": "March 2nd, 2018",
+    "url": "https://www.itworldcanada.com/article/hashtag-trending-spotify-goes-public-bmo-to-open-tech-campus-equifax-breach-hits-millions-more-customers/402405",
+    "category": "cyberSecurity",
+    "id": 57
+  },
+  {
+    "title": "Why the 2018 budget \u2018misses the mark\u2019 on tech: a comprehensive analysis",
+    "summary": "The 2018 Canadian budget has been unveiled, and while there are plenty of tech-related initiatives, many in the industry are...",
+    "date": "February 28th, 2018",
+    "url": "https://www.itworldcanada.com/article/2018-budget-misses-the-mark-a-comprehensive-analysis-of-all-its-tech-initiatives/402343",
+    "category": "cyberSecurity",
+    "id": 58
+  },
+  {
+    "title": "Kaspersky bundles security products into single solution",
+    "summary": "Kaspersky Lab is amalgamating some of its cybersecurity products into a single platform called Kaspersky Threat Management and Defense solution....",
+    "date": "February 8th, 2018",
+    "url": "https://www.itworldcanada.com/article/kaspersky-bundles-security-products-into-single-solution/401645",
+    "category": "cyberSecurity",
+    "id": 59
+  },
+  {
+    "title": "Telus, Trend Micro team up to open Cybersecurity Research Centre in Toronto",
+    "summary": "As the world continues to become more digital, businesses and consumers are facing more challenges than ever. To address the...",
+    "date": "February 1st, 2018",
+    "url": "https://www.itworldcanada.com/article/telus-trend-micro-team-up-to-open-cybersecurity-research-centre-in-toronto/401313",
+    "category": "cyberSecurity",
+    "id": 60
+  },
+  {
+    "title": "Hashtag Trending \u2013 Fujifilm and Xerox merge, UK fines companies weak on cybersecurity, Suncor invests in autonomous trucks",
+    "summary": "Fujifilm and Xerox merge into an $18 billion dollar corporation, the UK government will fine companies millions of dollars for...",
+    "date": "February 1st, 2018",
+    "url": "https://www.itworldcanada.com/article/hashtag-trending-fujifilm-and-xerox-merge-uk-fines-companies-weak-on-cybersecurity-suncor-invests-in-autonomous-trucks/401277",
+    "category": "cyberSecurity",
+    "id": 61
+  },
+  {
+    "title": "Ransomware is not going anywhere \u2013 so what can your organization do?",
+    "summary": "Navigating the shifting ransomware landscape continues to distract organizations from their innovation and productivity agenda. New findings from Fortinet\u2019s 2017...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/ransomware-is-not-going-anywhere-so-what-can-your-organization-do",
+    "category": "cyberSecurity",
+    "id": 62
+  },
+  {
+    "title": "Hashtag Trending \u2013 FinTech predictions for 2018",
+    "summary": "OK Google, invest my savings into BitCoin - which could exceed $100,000 in market value next year. And financial institutions...",
+    "date": "December 29th, 2017",
+    "url": "https://www.itworldcanada.com/article/hashtag-trending-fintech-predictions-for-2018/400234",
+    "category": "cyberSecurity",
+    "id": 63
+  },
+  {
+    "title": "CSO Digital: Security roundup (Week of May 23, 2016)",
+    "summary": "What's happening this week in the always interesting world of IT security: Wimpy\u00a0passwords, be gone! The days of common passwords...",
+    "date": "May 26th, 2016",
+    "url": "https://www.itworldcanada.com/article/cso-digital-security-roundup-week-of-may-23-2016/383617",
+    "category": "cyberSecurity",
+    "id": 64
+  },
+  {
+    "title": "Reporting Cybersecurity to the Board: A CISO\u2019s Go-To Guide",
+    "summary": "Cybersecurity briefings used to be considered inconsequential; a box to check off the list. But\u00a0today, boards have to consider the...",
+    "date": "May 25th, 2016",
+    "url": "https://www.itworldcanada.com/assets/reporting-cybersecurity-to-the-board-a-cisos-go-to-guide",
+    "category": "cyberSecurity",
+    "id": 65
+  },
+  {
+    "title": "Zero trust: Data breach prevention is all about breaking the kill chain",
+    "summary": "Breaches to enterprise security are often an inside, albeit unintentionally, thanks in part to the rise of privileged users. Once...",
+    "date": "March 10th, 2016",
+    "url": "https://www.itworldcanada.com/article/zero-trust-data-breach-prevention-is-all-about-breaking-the-kill-chain/381539",
+    "category": "cyberSecurity",
+    "id": 66
+  },
+  {
+    "title": "Securing the healthcare enterprise",
+    "summary": "Featured Download Securing the healthcare enterprise \u00a0 With disastrous data breaches making headlines far too often, healthcare executives need to...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/securing-the-healthcare-enterprise-2",
+    "category": "cyberSecurity",
+    "id": 67
+  },
+  {
+    "title": "Securing the healthcare enterprise",
+    "summary": "The healthcare industry should address digital security in a long-term, strategic way, using a multilayered approach. Healthcare organizations must apply...",
+    "date": "January 25th, 2016",
+    "url": "https://www.itworldcanada.com/assets/securing-the-healthcare-enterprise",
+    "category": "cyberSecurity",
+    "id": 68
+  },
+  {
+    "title": "CIO advice on cybersecurity \u2013 from education to investment",
+    "summary": "Security remains top of mind for organizations across Canada from IT leaders all the way up to the executive boardroom....",
+    "date": "January 25th, 2016",
+    "url": "https://www.itworldcanada.com/blog/cio-advice-on-cybersecurity-from-education-to-investment/380049",
+    "category": "cyberSecurity",
+    "id": 69
+  },
+  {
+    "title": "End the tyranny of passwords",
+    "summary": "We all know how much of a bad idea\u00a0writing down complex passwords is. Yet people do it all the time....",
+    "date": "October 28th, 2015",
+    "url": "https://www.itworldcanada.com/blog/end-the-tyranny-of-passwords/377978",
+    "category": "cyberSecurity",
+    "id": 70
+  },
+  {
+    "title": "Recap: CIO Innovation Summit at Muskoka through Twitter",
+    "summary": "Last weekend CIOs and IT leaders across Canada convened at The Rosseau by JW Marriott in Muskoka for ITWC's CIO...",
+    "date": "September 22nd, 2015",
+    "url": "https://www.itworldcanada.com/article/recap-cio-innovation-summit-at-muskoka-through-twitter/377259",
+    "category": "cyberSecurity",
+    "id": 71
+  },
+  {
+    "title": "Why boards should be paying close attention to cyber security",
+    "summary": "It wasn\u2019t too long ago that cyber security wasn\u2019t even on the radar of most senior executives and boards of...",
+    "date": null,
+    "url": "https://www.itworldcanada.com/sponsored/why-boards-should-be-paying-close-attention-to-cyber-security",
+    "category": "cyberSecurity",
+    "id": 72
+  },
+  {
+    "title": "U.S. said to be eyeing cybersecurity ambassador role",
+    "summary": "The U.S. is weighing the creation of an ambassador-level position for negotiating cybersecurity matters at the United Nations and for...",
+    "date": "March 24th, 2010",
+    "url": "https://www.itworldcanada.com/article/u-s-said-to-be-eyeing-cybersecurity-ambassador-role/41239",
+    "category": "cyberSecurity",
+    "id": 73
+  },
+  {
+    "title": "Security expert: US would lose cyberwar",
+    "summary": "The U.S. government, if confronted in a cyberwar today, would not come out on top, a former U.S. director of...",
+    "date": "February 24th, 2010",
+    "url": "https://www.itworldcanada.com/article/security-expert-us-would-lose-cyberwar/41037",
+    "category": "cyberSecurity",
+    "id": 74
+  },
+  {
+    "title": "Obama cyber czar worries about smartphones, social networking",
+    "summary": "In choosing\u00a0Howard Schmidt\u00a0as cyber czar President Obama has gotten someone who has held a similar job in a previous administration,...",
+    "date": "December 30th, 2009",
+    "url": "https://www.itworldcanada.com/article/obama-cyber-czar-worries-about-smartphones-social-networking/40696",
+    "category": "cyberSecurity",
+    "id": 75
+  },
+  {
+    "title": "Obama selects U.S. cybersecurity coordinator",
+    "summary": "Howard Schmidt\u00a0was named as the White House's cybersecurity coordinator on Dec. 22, a job that was reportedly difficult to fill...",
+    "date": "December 29th, 2009",
+    "url": "https://www.itworldcanada.com/article/obama-selects-u-s-cybersecurity-coordinator/40678",
+    "category": "cyberSecurity",
+    "id": 76
+  },
+  {
+    "title": "Northrop Grumman launches cybersecurity group",
+    "summary": "Defence\u00a0contractor Northrop Grumman has joined with three leading cybersecurity research universities to launch a research consortium focused on fixing the...",
+    "date": "December 3rd, 2009",
+    "url": "https://www.itworldcanada.com/article/northrop-grumman-launches-cybersecurity-group/40531",
+    "category": "cyberSecurity",
+    "id": 77
+  },
+  {
+    "title": "Obama again close to naming cybersecurity chief",
+    "summary": "The Obama Administration is once again reported to be close to naming a White House cybersecurity coordinator.A\u00a0story in the Federal...",
+    "date": "November 17th, 2009",
+    "url": "https://www.itworldcanada.com/article/obama-again-close-to-naming-cybersecurity-chief/40210",
+    "category": "cyberSecurity",
+    "id": 78
+  },
+  {
+    "title": "U.S. government unsure about new cybersecurity laws",
+    "summary": "Current laws addressing cyber crime aren't adequate to address growing attacks on the government and businesses, a representative of U.S....",
+    "date": "November 17th, 2009",
+    "url": "https://www.itworldcanada.com/article/u-s-government-unsure-about-new-cybersecurity-laws/40208",
+    "category": "cyberSecurity",
+    "id": 79
+  },
+  {
+    "title": "Study: US gov\u2019t cybersecurity spending to grow significantly",
+    "summary": "U.S. government spending on cybersecurity will grow at a compound rate of 8.1 per cent a year between 2009 and...",
+    "date": "October 27th, 2009",
+    "url": "https://www.itworldcanada.com/article/study-us-govt-cybersecurity-spending-to-grow-significantly/39718",
+    "category": "cyberSecurity",
+    "id": 80
+  },
+  {
+    "title": "Obama may tap ex-Clinton aide as security chief",
+    "summary": "More than three months after establishing a new White House office for cybersecurity , President Barack Obama may finally be...",
+    "date": "September 10th, 2009",
+    "url": "https://www.itworldcanada.com/article/obama-may-tap-ex-clinton-aide-as-security-chief/39751",
+    "category": "cyberSecurity",
+    "id": 81
+  },
+  {
+    "title": "We need a new breed of CEOs",
+    "summary": "By Dr. Mansur Hasib, CISSP, PMP, CPHIMS I just heard another story today of a Chief Information Security Officer (CISO)...",
+    "date": "July 21st, 2015",
+    "url": "https://www.itworldcanada.com/blog/we-need-a-new-breed-of-ceos/375720",
+    "category": "cyberSecurity",
+    "id": 82
+  },
+  {
+    "title": "Managing the Internet takes patience and nuance: Two things short in supply",
+    "summary": "This is a huge year for global Internet governance. With the U.S. Department of Commerce\u2019s plan to withdraw from its...",
+    "date": "June 30th, 2015",
+    "url": "https://www.itworldcanada.com/blog/managing-the-internet-takes-patience-and-nuance-two-things-short-in-supply/375688",
+    "category": "cyberSecurity",
+    "id": 83
+  },
+  {
+    "title": "Mobility allows organizations to realize major operational efficiencies",
+    "summary": "\u201cThe best examples are those that reduce \u2018paper and pen\u2019 processes that have been in place for decades that are...",
+    "date": "June 2nd, 2015",
+    "url": "https://www.itworldcanada.com/blog/mobility-brings-the-potential-for-organizations-to-realize-major-operational-efficiencies/373504",
+    "category": "cyberSecurity",
+    "id": 84
+  },
+  {
+    "title": "ITU 2015 stats confirm digital disruptive revolution",
+    "summary": "I am at the 2015 WSIS Forum in Geneva this week where the latest statistics were released confirming the digital...",
+    "date": "May 28th, 2015",
+    "url": "https://www.itworldcanada.com/blog/itu-2015-stats-confirm-digital-disruptive-revolution/374996",
+    "category": "cyberSecurity",
+    "id": 85
+  },
+  {
+    "title": "Cisco\u2019s Chief Security and Trust Officer: \u2018all hands on deck\u2019",
+    "summary": "\u201cCybersecurity in any organization, no matter what the purposes, needs everyone\u2019s involvement.\u201d \u2013 John N. Stewart, SVP and Chief Security...",
+    "date": "January 30th, 2015",
+    "url": "https://www.itworldcanada.com/blog/ciscos-chief-security-and-trust-officer-all-hands-on-deck/101331",
+    "category": "cyberSecurity",
+    "id": 86
+  },
+  {
+    "title": "Live stream \u2013 Technicity 2013: Focus on cybersecurity",
+    "summary": "As the Internet becomes more entrenched in the critical processes of businesses and governments the potential\u00a0security threats have also become...",
+    "date": "November 25th, 2013",
+    "url": "https://www.itworldcanada.com/article/live-stream-technicity-2013-focus-on-cybersecurity/86937",
+    "category": "cyberSecurity",
+    "id": 87
+  },
+  {
+    "title": "How to land a cybersecurity job",
+    "summary": "Cybersecurity jobs are plentiful, from government, financial services and utilities to manufacturing and retail. But what skills do IT professionals...",
+    "date": "May 3rd, 2012",
+    "url": "https://www.itworldcanada.com/article/how-to-land-a-cybersecurity-job/45455",
+    "category": "cyberSecurity",
+    "id": 88
+  },
+  {
+    "title": "Europe to hold cybersecurity exercise next month",
+    "summary": "The European Union is planning to hold a cybersecurity exercise across its 27 member states next month, the start of...",
+    "date": "October 13th, 2010",
+    "url": "https://www.itworldcanada.com/article/europe-to-hold-cybersecurity-exercise-next-month/42505",
+    "category": "cyberSecurity",
+    "id": 89
+  },
+  {
+    "title": "After Google-China fracas, cyberwar threat emerges",
+    "summary": "Few events have crystallized U.S. fears over a cyber catastrophe, or brought on calls for a strategic response, more than...",
+    "date": "April 7th, 2010",
+    "url": "https://www.itworldcanada.com/article/after-google-china-fracas-cyberwar-threat-emerges/41333",
+    "category": "cyberSecurity",
+    "id": 90
+  },
+  {
+    "title": "Alert!! CISA, DHS Urges Government Agencies to Patch Critical DNS Flaw...",
+    "time": "July 18, 2020",
+    "category": "malware",
+    "id": 91
+  },
+  {
+    "title": "APT Hackers Group Carefully Deploy Evilnum Malware Toolkit on Financial Sectors...",
+    "time": "July 15, 2020",
+    "category": "malware",
+    "id": 92
+  },
+  {
+    "title": "Pre-Installed Malware Found in The Android Phones That Sold in the...",
+    "time": "July 14, 2020",
+    "category": "malware",
+    "id": 93
+  },
+  {
+    "title": "Alina \u2013 A Point of Sale (POS) Malware Abusing Global DNS...",
+    "time": "July 8, 2020",
+    "category": "malware",
+    "id": 94
+  },
+  {
+    "title": "FAKESPY \u2013 An Android Malware steal SMS messages, Application, and Financial...",
+    "time": "July 7, 2020",
+    "category": "malware",
+    "id": 95
+  },
+  {
+    "title": "Hackers Revealed More Than 300 Windows 10 Executables Are Vulnerable to...",
+    "time": "June 30, 2020",
+    "category": "malware",
+    "id": 96
+  },
+  {
+    "title": "Beware!! Hackers Launching New Sophisticated Android Spyware \u201cActionSpy\u201d via phishing Attacks",
+    "time": "June 18, 2020",
+    "category": "malware",
+    "id": 97
+  },
+  {
+    "title": "$100,000 Bounty Zero-day Bug in \u201cSign in with Apple\u201d Let Hackers...",
+    "time": "June 2, 2020",
+    "category": "malware",
+    "id": 98
+  },
+  {
+    "title": "Valak Malware Attack Microsoft Exchange Servers To Steal Enterprise Network Credentials",
+    "time": "June 1, 2020",
+    "category": "malware",
+    "id": 99
+  },
+  {
+    "title": "6 Best Free Malware Analysis Tools to Break Down the Advanced...",
+    "time": "May 21, 2020",
+    "category": "malware",
+    "id": 100
+  },
+  {
+    "title": "SMiShing \u2013 Hackers Sending SMS With Fake Bank Domains to Steal...",
+    "time": "February 20, 2020",
+    "category": "malware",
+    "id": 101
+  },
+  {
+    "title": "Beware!! U.S Issued a Critical Alert For Several Ongoing Malware Attacks...",
+    "time": "February 17, 2020",
+    "category": "malware",
+    "id": 102
+  },
+  {
+    "title": "Hackers Distribute Multiple RAT Malware Families with Coronavirus Lures Via Weaponized...",
+    "time": "February 14, 2020",
+    "category": "malware",
+    "id": 103
+  },
+  {
+    "title": "xHunt Campaign Use Organization\u2019s Webpage as Watering Hole to Steal Customer...",
+    "time": "January 28, 2020",
+    "category": "malware",
+    "id": 104
+  },
+  {
+    "title": "New 5ss5c Ransomware Attacks Windows Computer Encrypts Only Selected Files and...",
+    "time": "January 16, 2020",
+    "category": "malware",
+    "id": 105
+  },
+  {
+    "title": "Operation AppleJeus \u2013  Lazarus APT Hackers Launching Highly Sophisticated Malware...",
+    "time": "January 13, 2020",
+    "category": "malware",
+    "id": 106
+  },
+  {
+    "title": "MageCart Hackers Steals Customer Credit Card Data from E-commerce Site Using...",
+    "time": "January 8, 2020",
+    "category": "malware",
+    "id": 107
+  },
+  {
+    "title": "What is Malware? Removal and Prevention",
+    "time": "December 27, 2019",
+    "category": "malware",
+    "id": 108
+  },
+  {
+    "title": "Imminent Monitor \u2013 A RAT That Allow Hackers to Gain Full...",
+    "time": "December 3, 2019",
+    "category": "malware",
+    "id": 109
+  },
+  {
+    "title": "More Than 12,000 Windows Users Attacked by Government-backed Hackers \u2013 Google\u2019s...",
+    "time": "November 28, 2019",
+    "category": "malware",
+    "id": 110
+  },
+  {
+    "title": "APT Hackers Using \u201cMikroceen\u201d Backdoor to Attack & Spying Government and...",
+    "time": "May 19, 2020",
+    "category": "malware",
+    "id": 111
+  },
+  {
+    "title": "U.S. Defense Uncovered 3 Malware that Used By North Korean Government...",
+    "time": "May 16, 2020",
+    "category": "malware",
+    "id": 112
+  },
+  {
+    "title": "Beware!! Lazarus APT Hackers Launching New MacOS RAT \u201cDacls\u201d Via Wepanized...",
+    "time": "May 12, 2020",
+    "category": "malware",
+    "id": 113
+  },
+  {
+    "title": "Hackers Launching Massive Cyber Attack on 900,000 Websites To Inject Backdoor",
+    "time": "May 7, 2020",
+    "category": "malware",
+    "id": 114
+  },
+  {
+    "title": "Hackers Are Exploiting These Web Application Vulnerabilities to Install Persistent Backdoor...",
+    "time": "April 25, 2020",
+    "category": "malware",
+    "id": 115
+  },
+  {
+    "title": "Beware!! State-Sponsored Hackers are using COVID-19 Lures to Steal Google Account...",
+    "time": "April 24, 2020",
+    "category": "malware",
+    "id": 116
+  },
+  {
+    "title": "Beware! Hackers Deliver USB Devices Containing Malware Using Best Buy Gift...",
+    "time": "March 29, 2020",
+    "category": "malware",
+    "id": 117
+  },
+  {
+    "title": "Beware of Fake Weaponized Coronavirus Maps that Steal Your Login Credentials",
+    "time": "March 12, 2020",
+    "category": "malware",
+    "id": 118
+  },
+  {
+    "title": "FormBook Malware Campaigns Attacking Aerospace and Manufacturing sectors Using PDFs, DOC...",
+    "time": "March 10, 2020",
+    "category": "malware",
+    "id": 119
+  },
+  {
+    "title": "10 Different Types of Dangerous Malware Attack and How to Avoid...",
+    "time": "February 26, 2020",
+    "category": "malware",
+    "id": 120
+  },
+  {
+    "title": "Beware!! Microsoft Warns Dopplepaymer Ransomware Attack On Windows Users in Enterprise...",
+    "time": "November 21, 2019",
+    "category": "malware",
+    "id": 121
+  },
+  {
+    "title": "Beware of Free USB Charging Points \u2013 They Can Hack your...",
+    "time": "November 15, 2019",
+    "category": "malware",
+    "id": 122
+  },
+  {
+    "title": "Orcus RAT Author Charged in International Malware Scheme For Infecting Thousands...",
+    "time": "November 14, 2019",
+    "category": "malware",
+    "id": 123
+  },
+  {
+    "title": "SmarterASP.NET \u2013 ASP.NET Hosting Provider Hit by Ransomware Attack \u2013 440,000...",
+    "time": "November 11, 2019",
+    "category": "malware",
+    "id": 124
+  },
+  {
+    "title": "Beware of Holiday Shopping Frauds and Malware Scams \u2013 How to...",
+    "time": "November 11, 2019",
+    "category": "malware",
+    "id": 125
+  }
+]
